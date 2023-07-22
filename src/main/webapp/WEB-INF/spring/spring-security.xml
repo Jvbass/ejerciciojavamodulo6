@@ -12,7 +12,8 @@
       <http auto-config="true">
         	<intercept-url pattern="/" access="permitAll"/>
         	<intercept-url pattern="/listar-capacitaciones" access="hasAnyAuthority('ADMIN', 'CLIENTE')"/>
-        	<intercept-url pattern="/crear-capacitacion" access="hasAnyAuthority('ADMIN', 'CLIENTE')"/> 
+        	<intercept-url pattern="/crear-capacitacion" access="hasAnyAuthority('ADMIN', 'CLIENTE')"/>
+        	<intercept-url pattern="/contacto" access="hasAnyAuthority('ADMIN', 'CLIENTE')"/>  
         	<intercept-url pattern="/listar-usuarios" access="hasAnyAuthority('ADMIN', 'ADMINISTRATIVO')"/>
         	<intercept-url pattern="/crear-usuario" access="hasAnyAuthority('ADMIN', 'ADMINISTRATIVO')"/> 
         	        	

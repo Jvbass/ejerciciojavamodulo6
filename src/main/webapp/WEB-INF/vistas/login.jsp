@@ -14,7 +14,7 @@
 	<div class="container main-login vh-100">
 	<!-- card login-->
 	<div class="d-flex flex-column justify-content-center align-items-center h-100">
-		<h1 class="text-center mb-5">Sistema Asesorias <span class="text-danger"> JEE </span></h1>
+		<h1 class="text-center mb-5">Sistema Asesorias <span class="text-danger"> JPA </span></h1>
 		<div class="card p-5 mb-5 shadow-lg" style="width: 30rem;">		
 			<div class="card-body">
 			
@@ -58,7 +58,7 @@
 					
 					<div class="d-flex justify-content-end">
 					<span class="mt-4 text-secondary">¿No tienes cuenta?. &nbsp;</span>
-					<a class="mt-4" href="#"> <span class=" text-danger"> Registrate</span></a>
+					<a class="mt-4" href="crear-usuario"> <span class=" text-danger"> Registrate</span></a>
 					</div>					
 				</form>
 				
@@ -68,6 +68,7 @@
 						<li><em>usuario: juan pw: admin rol: ADMIN</em></li>
 						<li><em>usuario: miguel pw: secreto rol: CLIENTE</em></li>
 						<li><em>usuario: christian pw: awake rol: ADMINISTRATIVO</em></li>
+						<li><em>usuario: roberto pw: asesoria rol: PROFESIONAL</em></li>
 
 					</ul>
 			

@@ -5,7 +5,7 @@
     <ul class="nav justify-content-center border-bottom pb-3">
       <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Inicio</a></li>
       <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Contacto</a></li>
-      <li class="nav-item"><a href="https://github.com/Jvbass" class="nav-link px-2 text-muted">Git-hub</a></li>
+      <li class="nav-item"><a href="https://github.com/Jvbass/ejerciciojavamodulo6" class="nav-link px-2 text-muted">Repositorio en GitHub</a></li>
     </ul>
     <p class="text-center text-muted">&copy; 2023 Grupo6</p> <p class="text-center text-primary-emphasis
 
