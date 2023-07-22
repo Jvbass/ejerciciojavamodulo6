@@ -1,5 +1,5 @@
 # Ejercicio final modulo 6 Spring Framework JPA
-Tema: Programación Orientada a Objetos
+Tema: Proyecto CRUD Spring Framework JPA
 ### Integrantes:
 + Juan Pino C. :octocat:https://github.com/Jvbass/SprintFinalModulo4
 + Jorge Moraga C. :octocat:https://github.com/JorgeMoragaCalvo
