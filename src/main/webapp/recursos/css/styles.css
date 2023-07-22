@@ -1,0 +1,33 @@
+
+.header-height{
+  height: 200px;
+}
+
+footer a {
+	text-decoration: none;
+	color:#ccc000;
+}
+.main-login{
+	min-height: 70vh;	
+}
+
+.main-form{
+	min-height: 100vh;	
+}
+
+textarea {
+    resize: none;
+  	height:15rem;
+}
+
+.error{
+	font-size: .8rem;
+	color: red;
+}
+
+@media screen and (min-width:800px){
+
+  .header-height{
+     height: 450px;
+  }
+}
