@@ -57,7 +57,7 @@ Debe Tener instalado MySql para ejecutar el script sql "bdasesoriajpa.sql" inclu
 - El script sql "bdasesoriajpa.sql" contiene consultas INSERT para insertar datos a las tablas creadas una vez ejecutado el proyecto desde Eclipse
 
 # :construction:**Importante**:construction:
-- Si tienes algun problema al ejecutar el proyecto, haz click derecho en la carpeta raiz "asesoriajpa" y luego en "Run AS", haz click en "Maven Clean" y luego sigue la misma rut y haz click en "Maven Install". Esto reinstalara las dependencias asociadas al proyecto en el archivo pom.xml 
+- Si tienes algun problema al ejecutar el proyecto, haz click derecho en la carpeta raiz "asesoriajpa" y luego en "Run AS", haz click en "Maven Clean" y luego sigue la misma ruta y haz click en "Maven Install". Esto reinstalara las dependencias asociadas al proyecto en el archivo pom.xml 
 
 ## :hugs: Contrubuciones 
 - Si quieres aportar a este proyecto no dudas en hacer un pull request detalando en el commit las modificaciones y/o aportes realizados.
